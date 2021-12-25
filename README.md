@@ -1,5 +1,8 @@
 ## 👋 Hi, I’m Margaret!
 
+
+<a href="https://www.linkedin.com/in/margaret-farmer/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"></a> Full Stack Software Engineer
+
 Tools and Technologies:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a> Javascript  
