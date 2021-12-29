@@ -2,7 +2,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/margaret-farmer/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"></a> Full Stack Software Engineer
+<a href="https://www.linkedin.com/in/margaret-farmer/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"></a> Contact me
 
 Tools and Technologies:
 
