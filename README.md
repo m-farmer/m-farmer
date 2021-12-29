@@ -11,7 +11,9 @@ Tools and Technologies:
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a> Firebase  
 <a href="https://expo.dev/" style="text-decoration:none" title="Expo">:iphone:</a> Expo  
 <a href="https://reactnative.dev/" title="ReactNative"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a> React & React Native  
-<a href="https://formidable.com/open-source/victory/docs/native/" style="text-decoration:none" title="VictoryNative">:chart_with_upwards_trend:</a> Victory Native  
+<a href="https://formidable.com/open-source/victory/docs/native/" style="text-decoration:none" title="VictoryNative">:chart_with_upwards_trend:</a> Victory Native 
+<a href="" title="Redux"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/redux.svg" alt="Redux" width="21px" height="21px"></a> Redux
+
 <a href="https://www.tensorflow.org/js" style="text-decoration:none" title="Tensorflow">:brain:</a> Tensorflow  
 
 
