@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Margaret!
+![github-profile-illustration copy](https://user-images.githubusercontent.com/43537116/147617988-e6e2212e-5202-401e-8404-31e3f9148176.jpg)
+
 
 
 <a href="https://www.linkedin.com/in/margaret-farmer/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"></a> Full Stack Software Engineer
