@@ -1,10 +1,15 @@
 ![github-profile-illustration-planet](https://user-images.githubusercontent.com/43537116/148106022-c8c3463f-9ae4-4f3f-92af-87514d9de2a0.jpg)
 
 
+#### About Me:
+
+My name is Margaret Farmer and I am a junior full-stack developer who loves everything related to research and data visualization. 
+I'm currently setting up my main portfolio site, but in the meantime please take a look at the projects linked on my Github home page!
+
+<a href="https://www.linkedin.com/in/margaret-farmer/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"></a> Connect with me
 
 
-<a href="https://www.linkedin.com/in/margaret-farmer/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"></a> Contact me
-
+Tools and Tech:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" alt="Node.js" width="30px" height="30px"></a>
