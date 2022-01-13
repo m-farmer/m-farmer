@@ -4,7 +4,7 @@
 #### About Me:
 
 My name is Margaret Farmer and I am a junior full-stack developer who loves everything related to research and data visualization. 
-I'm currently setting up my main portfolio site, but in the meantime please take a look at the projects linked on my Github home page!
+I'm currently setting up my main portfolio site, but in the meantime please take a look at my [pinned projects](https://github.com/m-farmer) !
 
 <a href="https://www.linkedin.com/in/margaret-farmer/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"></a> Connect with me
 
